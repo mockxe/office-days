@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-rules>
+    <include domain="file" path="./office_day_db.cblite2" />
+</full-backup-rules>

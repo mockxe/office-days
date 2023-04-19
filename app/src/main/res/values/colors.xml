@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- base colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#1f000000</color>
+
+    <!-- theme colors -->
+    <color name="lightBlueRegular">#0288d1</color>
+    <color name="lightBlueLight">#5eb8ff</color>
+    <color name="lightBlueDark">#005b9f</color>
+
+    <color name="lightBlueRegularNight">#29b6f6</color>
+    <color name="lightBlueLightNight">#73e8ff</color>
+    <color name="lightBlueDarkNight">#0086c3</color>
+
+    <color name="lightGreenRegular">#76ff03</color>
+    <color name="lightGreenLight">#b0ff57</color>
+    <color name="lightGreenDark">#32cb00</color>
+
+</resources>
