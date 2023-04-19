@@ -8,6 +8,7 @@ import android.view.MenuItem
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.google.android.gms.oss.licenses.OssLicensesMenuActivity
 import com.google.android.material.snackbar.Snackbar
 import dagger.hilt.android.AndroidEntryPoint
 import io.mockxe.officedays.model.OfficeDay
@@ -108,6 +109,7 @@ class MainActivity: AppCompatActivity() {
             }
 
             R.id.menuStats -> startActivity(Intent(this, StatsActivity::class.java))
+            R.id.menuInfo -> startActivity(Intent(this, OssLicensesMenuActivity::class.java))
 
             else -> {}
         }
